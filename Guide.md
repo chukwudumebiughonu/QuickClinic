@@ -7,3 +7,5 @@ install animate with: npm install tailwindcss-animate
 initialize shadcn-ui with: npx shadcn-ui@latest init
 
 add button etc with: npx shadcn-ui@latest add button
+
+install next-themes with: npm install next-themes
